@@ -1,10 +1,5 @@
 
-/*
- * Authors 	: Abhitej Boorla
- * 			: Anvesh Mandanapu
- * 			: Chandrika Cherukuri
- * 			: Raghunadh Metta
- */
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
