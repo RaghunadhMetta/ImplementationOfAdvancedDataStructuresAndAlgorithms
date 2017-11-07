@@ -1,8 +1,4 @@
 
-/*ABHITEJ BOORLA
-  RAGHUNADH METTA
-  CHANDRIKA CHERUKURI
-  MANDANAPU ANVESH*/
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.LinkedList;
