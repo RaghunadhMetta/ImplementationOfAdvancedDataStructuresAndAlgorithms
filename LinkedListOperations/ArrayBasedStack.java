@@ -1,7 +1,4 @@
-/*ABHITEJ BOORLA
-  RAGHUNADH METTA
-  CHANDRIKA CHERUKURI
-  MANDANAPU ANVESH*/ 
+
 
 public class ArrayBasedStack <T> {
 	int size;
