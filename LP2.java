@@ -1,10 +1,3 @@
-//package cs6301.g11;
-/*
- * Authors 	: Abhitej Boorla
- * 			: Anvesh Mandanapu
- * 			: Chandrika Cherukuri
- * 			: Raghunadh Metta
- */
 
 import java.util.Scanner;
 import java.io.File;
