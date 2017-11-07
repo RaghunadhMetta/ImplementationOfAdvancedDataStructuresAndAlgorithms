@@ -1,9 +1,4 @@
 
-/*ABHITEJ BOORLA
-  RAGHUNADH METTA
-  CHANDRIKA CHERUKURI
-  MANDANAPU ANVESH*/
-
 import java.util.ArrayDeque;
 
 import SinglyLinkedList.Entry;
