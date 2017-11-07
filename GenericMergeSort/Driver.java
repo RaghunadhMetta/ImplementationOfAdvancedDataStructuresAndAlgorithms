@@ -1,9 +1,4 @@
-/*
-Authors : Abhitej Boorla
-		: Mandanapu Anvesh
-		: Chandrika Cherukuri
-		: Raghunadh Metta
-*/
+
 public class Driver {
 
 	public static void main(String[] args) {
