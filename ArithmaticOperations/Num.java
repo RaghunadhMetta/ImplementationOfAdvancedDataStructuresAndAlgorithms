@@ -1,5 +1,4 @@
 
-// Starter code for lp1.
 
 
 import java.util.Iterator;
