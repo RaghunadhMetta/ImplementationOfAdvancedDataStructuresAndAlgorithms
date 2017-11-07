@@ -1,4 +1,5 @@
-This code consists of implementation of Generic Merge Sort and a BST implementation for calculating the diameter of a given graph.
+This code consists of implementation of Generic Merge Sort and a BST implementation for calculating the diameter 
+of a given graph.
 
 Sorting.java 	: Sorting algorithms(generic MergeSort, int array mergeSort, insertionSort).
 Driver.java  	: Driver program for Sorting.java
