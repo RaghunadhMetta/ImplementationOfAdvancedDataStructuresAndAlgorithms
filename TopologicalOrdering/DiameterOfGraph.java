@@ -1,9 +1,4 @@
-/*
-Authors : Abhitej Boorla
-		: Mandanapu Anvesh
-		: Chandrika Cherukuri
-		: Raghunadh Metta
-*/
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
