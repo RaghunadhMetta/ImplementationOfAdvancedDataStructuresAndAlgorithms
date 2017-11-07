@@ -1,7 +1,7 @@
-Authors 	: Abhitej Boorla
-  			: Anvesh Mandanapu
- 			: Chandrika Cherukuri
- 			: Raghunadh Metta
+This code consists of implementation of arithmetic calculations such as addition subtraction for very large numbers.
+The code accepts numbers in the form of strings of any length. 
+
+
 
 1) Num.java contains add, subtract, product, power methods of Level 1 and divide, mod, squareRoot and power methods of Level 2 and the helper methods for base conversion.
 
@@ -17,7 +17,10 @@ Helper functions:
 
 
 
-2) LP1L1.java is a driver program where the methods of Num.java (Level 1) are called.
+2) LP1L1.java is a driver program where the methods of Num.java are called.
 
 
-3) LP2L2.java is a driver program where the methods of Num.java (Level 2) are called.
+3) LP2L2.java is a driver program where the methods of Num.java are called.
+
+
+
