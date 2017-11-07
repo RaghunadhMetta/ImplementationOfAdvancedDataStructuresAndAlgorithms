@@ -1,9 +1,4 @@
-/*
-Authors : Abhitej Boorla
-		: Mandanapu Anvesh
-		: Chandrika Cherukuri
-		: Raghunadh Metta
-*/
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
